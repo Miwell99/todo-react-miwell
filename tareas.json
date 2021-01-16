@@ -1,0 +1,22 @@
+{
+    "tareas":[
+        {
+            "title": "Task 1",
+            "responsible": "Joseph",
+            "description": "Ningerundaiooo!",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "IM-sama",
+            "description": "Kill Joy Boy!",
+            "priority": "High"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Miwell",
+            "description": "Learn more english",
+            "priority": "High"
+        }
+    ]
+}
